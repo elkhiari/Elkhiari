@@ -1,9 +1,9 @@
   
 </div>
- <a href="https://github.com/alifertah">
+ <a href="https://github.com/elkhiarii">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkhiarii&theme=light" />
 </a>
-<a href="https://github.com/hamza-ezzahiry">
+<a href="https://github.com/elkhiarii">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elkhiarii&show_icons=true&theme=light&line_height=40" alt="SpiderX's github stats"/>
 </a>
  </div>
