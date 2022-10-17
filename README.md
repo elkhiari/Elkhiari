@@ -1,10 +1,10 @@
   
 </div>
  <a href="https://github.com/alifertah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifertah&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkhiarii&theme=light" />
 </a>
 <a href="https://github.com/hamza-ezzahiry">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=alifertah&show_icons=true&theme=light&line_height=40" alt="SpiderX's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=elkhiarii&show_icons=true&theme=light&line_height=40" alt="SpiderX's github stats"/>
 </a>
  </div>
 
