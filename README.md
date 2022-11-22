@@ -9,7 +9,6 @@
 
 <a href="https://github.com/elkhiarii"><img src="https://badge42.vercel.app/api/v2/clari1mve00690fmnkj0hapk2/stats?cursusId=21&coalitionId=74" alt="oelkhiar's 42 stats" /></a> 
 
-<br/><a style="font-weight=23" href="https://github.com/elkhiarii"><img src="https://badge42.vercel.app/api/v2/clari1mve00690fmnkj0hapk2/project/2825946" alt="oelkhiar's 42 Libft Score" /></a>
 
 
 
