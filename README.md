@@ -66,7 +66,7 @@
 
 ###
 
-<img align="left" height="170" src="https://i.ibb.co/r0vGsHz/profile.jpg"  />
+<img align="left" height="150" src="https://i.ibb.co/r0vGsHz/profile.jpg"  />
 
 ###
 
@@ -98,7 +98,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elkhiari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elkhiari&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elkhiari&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
