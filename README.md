@@ -1,5 +1,6 @@
 
-![Blue Illustration Programming  Google Classroom Header](https://user-images.githubusercontent.com/104714064/196247688-8d794698-6be2-47e8-a3e3-64b4d0f2f4fe.jpeg)
+![HEADER](https://i.ibb.co/vdJ9Pqw/Black-3-D-Artist-Linked-In-Banner-2.png)
+
 
 <br/>
 
@@ -17,7 +18,7 @@
 🔭 I’m currently working on  : 42-Cursus-Projects <br>🌱 I’m currently learning  :  WEB  --  deep Learning -- big data<br>💬 Ask me about My name :)<br>💯Favorite programming language : JavaScript<br>⚡  :)
 
 
-// <a href="https://github.com/elkhiarii"><img src="https://badge.mediaplus.ma/greenbinary/oelkhiar" alt="oelkhiar's 42 stats" /></a> 
+<!-- <a href="https://github.com/elkhiarii"><img src="https://badge.mediaplus.ma/greenbinary/oelkhiar" alt="oelkhiar's 42 stats" /></a>  -->
 
 
 
