@@ -15,7 +15,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on  : 42-Cursus-Projects <br>🌱 I’m currently learning  :  WEB  --  deep Learning -- big data<br>💬 Ask me about My name :)<br>💯Favorite programming language : JavaScript<br>⚡  :)
+🔭 I’m currently working on  : 1337 42-Cursus-Projects <br>🌱 I’m currently learning  :  WEB  --  deep Learning -- big data<br>💬 Ask me about My name :)<br>💯Favorite programming language : JavaScript<br>⚡  :)
 
 
 <!-- <a href="https://github.com/elkhiarii"><img src="https://badge.mediaplus.ma/greenbinary/oelkhiar" alt="oelkhiar's 42 stats" /></a>  -->
